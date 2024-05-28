@@ -15,3 +15,6 @@ This project addresses the need for proactive maintenance strategies in industri
 * Cost savings, optimized resource allocation, and enhanced productivity in industrial machinery operations.
 * Evaluate the performance of different models in predicting Machine failure.
 * Evaluate the impact of different feature selection methods on the performance of predictive maintenance models.
+
+
+### Google Drive Link: https://colab.research.google.com/drive/1FC52-HmtQME4ZP_7q0nIATgDzu4YcIKd?usp=sharing
