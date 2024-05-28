@@ -16,5 +16,6 @@ This project addresses the need for proactive maintenance strategies in industri
 * Evaluate the performance of different models in predicting Machine failure.
 * Evaluate the impact of different feature selection methods on the performance of predictive maintenance models.
 
-
-##### Google Drive Link: https://colab.research.google.com/drive/1FC52-HmtQME4ZP_7q0nIATgDzu4YcIKd?usp=sharing
+### How to access:
+#### Google Drive Link: https://colab.research.google.com/drive/1FC52-HmtQME4ZP_7q0nIATgDzu4YcIKd?usp=sharing
+##### Click on the provided Google Colab link to access my project.
